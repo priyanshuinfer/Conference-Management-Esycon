@@ -189,15 +189,6 @@ esycon-conference/
 
 ---
 
-## 📸 Screenshots
-
-> *(Place screenshots under `docs/screenshots/` and update paths)*  
-- **Home Page**: `docs/screenshots/home.png`  
-- **Paper Submission Form**: `docs/screenshots/submit_paper.png`  
-- **Admin Dashboard**: `docs/screenshots/admin_dashboard.png`  
-- **Manage Papers**: `docs/screenshots/manage_papers.png`  
-
----
 
 ## 🛣️ Roadmap
 
